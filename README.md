@@ -72,8 +72,9 @@ TPPcVjDrKLzD3VDhjhKsPWwsRMTz6GAsZR
 ## :book: Installation
 
 ```
-sudo -s
-bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/master/install.sh)
+sudo
+bash <(curl -Ls https://raw.githubusercontent.com/LwinMinOo558/vmess/main/install.sh)
+
 ```
 
 ### Deploy Bot on Heroku🏃‍♂
@@ -90,4 +91,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/sbatrow/DarkV2ray-Manager-Bot/
 
 [![License](https://www.gnu.org/graphics/gplv3-or-later.png)](LICENSE)
 
-**By: you tech 🇱🇰 **
