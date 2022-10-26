@@ -1,6 +1,6 @@
 {    
 
-"name": "DarkV2ray-Manager-Bot",
+"name": "ShanGyi-V2ray",
     "description": "A bot that can Manage your v2ray",
     "logo": "https://telegra.ph/file/a300722ddab9d8d24fc15.jpg",
     "keywords": [
@@ -9,9 +9,9 @@
         "v2ray bot",
         "DarkV2ray"
     ],
-    "website": "https://youtech.live",
-    "repository": "https://github.com/sbatrow/DarkV2ray-Manager-Bot",
-    "success_url": "https://t.me/YouTech_Support",
+    "website": "https://t.me/bussinessgoogle",
+    "repository": "https://github.com/LwinMinOo558/vmess",
+    "success_url": "https://t.me/bussinessgoogle",
     "env": {
         "ADMINS": {
             "description": "Your Telegram ID use @my_id_bot",
