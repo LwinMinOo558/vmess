@@ -79,7 +79,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/LwinMinOo558/vmess/main/instal
 
 ### Deploy Bot on Heroku🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/keshaka/vmess)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LwinMinOo558/vmess)
 
 
 ## :heavy_exclamation_mark: Requerimientos
